@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+
 Hi 👋, I'm Kousik Kanji<br><br>🎓 Computer Science Engineering Student from India.<br>💻 Passionate about Software Development, AI/ML, and Data Science.<br>🚀 Always learning new technologies and building practical projects.
 
 

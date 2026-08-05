@@ -79,8 +79,8 @@ const kousikKanji = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kousikkanji01&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Kousik's GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousikkanji01&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=kousikkanji01&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&cache_seconds=86400" alt="Kousik's GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousikkanji01&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&cache_seconds=86400" alt="Top Languages" height="165" />
 
 </div>
 

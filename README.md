@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Kousik%20Kanji&fontSize=46&fontColor=0b1120&fontAlignY=35&animation=fadeIn&desc=Computer%20Science%20Engineering%20Student&descAlignY=58&descSize=18&descColor=0b1120" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:aae2fd,100:5b99ba&height=200&section=header&text=Kousik%20Kanji&fontSize=46&fontColor=0b1120&fontAlignY=35&animation=fadeIn&desc=Computer%20Science%20Engineering%20Student&descAlignY=58&descSize=18&descColor=0b1120" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Passionate+about+Software+Development%2C+AI%2FML+%26+Data+Science;Always+Learning+New+Technologies;Building+Practical+Projects" alt="Typing SVG" />
@@ -19,7 +19,7 @@
 
 ```typescript
 const kousikKanji = {
-  name: "Kousik Kanji",
+  name: "KOUSIK KANJI",
   title: "Computer Science Engineering Student",
   location: "India",
   education: "Computer Science Engineering",
@@ -104,6 +104,14 @@ const kousikKanji = {
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kousikkanji01/kousikkanji01/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kousikkanji01/kousikkanji01/output/github-contribution-grid-snake.svg" />
+  <img alt="Kousik's contribution snake" src="https://raw.githubusercontent.com/kousikkanji01/kousikkanji01/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<br/><br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kousikkanji01&bg_color=2E3440&color=D8DEE9&line=7dd3fc&point=7dd3fc&area=true&area_color=7dd3fc&border_color=7dd3fc" alt="Contribution Graph" style="max-width: 100%;" />
 
 </div>
@@ -136,6 +144,6 @@ const kousikKanji = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=fadeIn" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b99ba,100:aae2fd&height=120&section=footer&animation=fadeIn" width="100%" alt="footer" />
 
 </div>

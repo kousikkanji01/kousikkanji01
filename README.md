@@ -49,10 +49,10 @@ const kousikKanji = {
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=py,js,css,html" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,js&theme=dark" alt="Languages"/>
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark" alt="Frontend"/>
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />

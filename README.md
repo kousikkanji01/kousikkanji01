@@ -75,13 +75,6 @@ const kousikKanji = {
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kousikkanji01&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&cache_seconds=86400" alt="Kousik's GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousikkanji01&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&cache_seconds=86400" alt="Top Languages" height="165" />
-</div>
 
 ## Streak Stats
 
@@ -91,12 +84,6 @@ const kousikKanji = {
 
 </div>
 
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kousikkanji01&theme=nord&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-</div>
 
 ## Contribution Graph
 

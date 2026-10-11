@@ -75,12 +75,7 @@ const kousikKanji = {
 
 <br/>
 
-## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kousikkanji01&show_icons=true&theme=dark&border_color=38bdf8&title_color=38bdf8&icon_color=38bdf8&bg_color=0d1117" alt="Kousik's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kousikkanji01&layout=compact&theme=dark&border_color=38bdf8&title_color=38bdf8&bg_color=0d1117" alt="Top Languages" height="165" />
-</div>
 
 ## Streak Stats
 
